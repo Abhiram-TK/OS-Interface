@@ -11,6 +11,8 @@ Welcome to OS Interface, a robust operating system interface crafted using Go La
   - Displays temperature, wind speed, and rain conditions.
   - Supports popular city names for weather forecasts.
 
+![WeatherApp-ezgif com-resize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/3232227d-15e2-440c-9399-d30e37d27c99)
+
 #### 🖼️ Gallery App:
   - Utilizes built-in image storage for convenient access.
   - Allows users to view stored images effortlessly.
