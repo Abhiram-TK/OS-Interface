@@ -55,7 +55,7 @@ func showEmail() {
 		// put/type smtp client email host(server),port, username,password
 		// you can use gmail and any other server.
 
-		dailer := gomail.NewDialer("smtp-relay.sendinblue.com", 587, "abhiramsuresh109@gmail.com", "C74JZnNO98WL0tPv")
+		dailer := gomail.NewDialer("smtp-relay.sendinblue.com", 587, "username", "password")
 
 		err := dailer.DialAndSend(message)
 		if err != nil {
