@@ -35,7 +35,7 @@ func showWeather() {
 	img.FillMode = canvas.ImageFillOriginal
 
 	clickMe := widget.NewButton("Click To Get Weather", func() {
-		resp, err := http.Get("https://api.openweathermap.org/data/2.5/weather?q=" + selection + "&appid=270a4cb52a56646c4a7f98278f3c19eb")
+		resp, err := http.Get("https://api.openweathermap.org/data/2.5/weather?q=" + selection + "&appid=example")
 
 		if err != nil {
 			fmt.Println(err.Error())
