@@ -28,7 +28,7 @@ var panelContent *fyne.Container
 func main() {
 
 	myApp.Settings().SetTheme(theme.DarkTheme())
-	img = canvas.NewImageFromFile("D:\\Universe\\Final Year Project\\OS Interface\\osbg.jpg")
+	img = canvas.NewImageFromFile("D:\\OS Interface\\osbg.jpg")
 
 	btn1 = widget.NewButtonWithIcon("Weather", theme.InfoIcon(), func() {
 
