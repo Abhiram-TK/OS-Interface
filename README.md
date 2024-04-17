@@ -1,48 +1,43 @@
 # OS Interface
 
-Welcome to OS Interface, a robust operating system interface crafted using Go Language and the Fyne Framework. This project brings together various independent applications seamlessly integrated into one cohesive interface. From a weather app powered by OpenWeatherAPI to a versatile gallery, audio player, calculator, text editor, and an efficient email sender.
+Welcome to OS Interface, a robust operating system interface crafted using Go Language and the Fyne Framework. This project seamlessly integrates various independent applications into one cohesive interface, enhancing your digital experience.
 
 ✨ Feel free to explore, contribute, and enhance your digital experience with OS Interface! 
 
 ## Project Overview & Demo:
 
 #### 🌐 Weather App:
-  - Synchronized with OpenWeatherAPI for live updates.
-  - Displays temperature, wind speed, and rain conditions.
-  - Supports popular city names for weather forecasts.
+  - Stay updated with live weather data synchronized from OpenWeatherAPI.
+  - Get instant access to temperature, wind speed, and rain conditions.
+  - Supports popular cities for accurate weather forecasts..
 
 ![WeatherApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/0eb9e95e-9566-49dd-ad0f-5d7b5fcce85a)
 
 #### 🖼️ Gallery App:
-  - Utilizes built-in image storage for convenient access.
-  - Allows users to view stored images effortlessly.
+  - Conveniently access and view your stored images using the built-in image storage feature.
 
 ![ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/16d57358-9a3e-4fca-a547-a3275b7a8d05)
 
 #### 🎵 Audio Player App:
-  - Utilizes the system's database for operations.
-  - Play, pause, and stop audio with ease.
-  - Exclusive support for audio files.
+  - Effortlessly manage your audio files with the system's database integration.
+  - Play, pause, and stop audio tracks with ease.
 
 ![AudioPlayerApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/52fa7a13-99ee-4c81-bd1d-797a6bb40739)
 
 #### 🧮 Calculator App:
-  - Performs basic arithmetic operations.
-  - Keeps a history of calculations for reference.
-  - Enables users to view and delete calculation history.
+  - Perform basic arithmetic operations and keep track of your calculation history.
+  - Easily view and delete previous calculations.
 
 ![CalculatorApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/1335a816-1bdc-4aa1-a19d-9dcf146ca894)
 
 #### 📝 Text Editor App:
-  - Leverages the system's database for operations.
-  - Create, save, open, and edit documents seamlessly.
+  - Seamlessly create, save, open, and edit documents with system's database support.
 
 ![TextEditorApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/34ae31b1-b06e-4d02-bf3c-e4942f03ecac)
 
 #### ✉️ SendMail App:
-  - Synced with an SMTP mail host server.
-  - Functions as an efficient email sender client.
-  - Requires user input for sender and recipient email, subject, and message.
+  - Send emails efficiently using SMTP integration with a mail host server.
+  - Simply input sender and recipient email, subject, and message.
 
 ![SenMailApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/83492477-68f1-49db-bd3b-53a3d26f4afc)
 
@@ -131,8 +126,8 @@ Now, your project is ready to go! 🚀
 
 ## Documentation Links:
 
-- Go Documentation: [https://go.dev/doc/](https://go.dev/doc/)
-- Fyne ToolKit Documentation: [https://docs.fyne.io/](https://docs.fyne.io/) 
+- [Go Documentation](https://go.dev/doc/)
+- [Fyne ToolKit Documentation](https://docs.fyne.io/) 
 
 ## Contact Information:
 
