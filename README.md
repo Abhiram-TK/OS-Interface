@@ -1,6 +1,6 @@
 # OS Interface
 
-Welcome to OS Interface, a robust operating system interface crafted using Go Language and the Fyne Framework. This project seamlessly integrates various independent applications into one cohesive interface, enhancing your digital experience.
+Welcome to OS Interface, an operating system interface crafted using Go Language and the Fyne Framework. This project seamlessly integrates various independent applications into one cohesive interface, enhancing your digital experience.
 
 ✨ Feel free to explore, contribute, and enhance your digital experience with OS Interface! 
 
@@ -9,7 +9,7 @@ Welcome to OS Interface, a robust operating system interface crafted using Go La
 #### 🌐 Weather App:
   - Stay updated with live weather data synchronized from OpenWeatherAPI.
   - Get instant access to temperature, wind speed, and rain conditions.
-  - Supports popular cities for accurate weather forecasts..
+  - Supports popular cities for accurate weather forecasts.
 
 ![WeatherApp-ezgif com-optimize](https://github.com/Abhiram-TK/OS-Interface/assets/158244906/0eb9e95e-9566-49dd-ad0f-5d7b5fcce85a)
 
