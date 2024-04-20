@@ -131,6 +131,6 @@ Now, your project is ready to go! 🚀
 
 ## Contact Information:
 
-❤️ Connect with me on [LinkedIn](#insert_linkedin_profile_link_here). 
+❤️ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhiramtk). 
 
 🌟 Thank you for your interest in OS Interface. Looking forward to connecting with you!
